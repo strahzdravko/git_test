@@ -1,1 +1,2 @@
-some text blablabla 
+some text blablabla
+I am learning how to use git
